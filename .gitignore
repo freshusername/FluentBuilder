@@ -1,0 +1,9 @@
+﻿*.bat
+*.pdb
+*.suo
+.vs
+[Bb]in
+[Dd]ebug
+[Oo]bj
+[Rr]elease
+[Rr]eleases
